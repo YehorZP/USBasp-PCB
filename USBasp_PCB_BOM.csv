@@ -1,0 +1,23 @@
+C1,22pF,Ceramic capacitor (D5.1mm_W3.2mm_P5.00mm)
+C2,22pF,Ceramic capacitor (D5.1mm_W3.2mm_P5.00mm)
+C3,10uF,Capacitor electrolytic (D5.0mm_P2.50mm)
+C4,100nF,Ceramic capacitor (D5.1mm_W3.2mm_P5.00mm)
+D1,3.6V,"Zener diode, 0.5 W (DO-35)"
+D2,3.6V,"Zener diode, 0.5 W (DO-35)"
+D3,G(pwr),LED_D3.0mm (green)
+D4,R(prog),LED_D3.0mm (red)
+J1,USB_A,Connectors:USB-A-H
+J2,ISP_F.Cu,PinHeader_1x03_P2.54mm
+J3,ISP_B.Cu,PinHeader_1x03_P2.54mm
+R1,1.4-2.5K,Resistor Axial_DIN0207_L6.3mm_D2.5mm
+R10,270-330R,Resistor Axial_DIN0207_L6.3mm_D2.5mm
+R2,68R,Resistor Axial_DIN0207_L6.3mm_D2.5mm
+R3,68R,Resistor Axial_DIN0207_L6.3mm_D2.5mm
+R4,10K,Resistor Axial_DIN0207_L6.3mm_D2.5mm
+R5,330R..1K,Resistor Axial_DIN0207_L6.3mm_D2.5mm
+R6,330R..1K,Resistor Axial_DIN0207_L6.3mm_D2.5mm
+R7,270-330R,Resistor Axial_DIN0207_L6.3mm_D2.5mm
+R8,270-330R,Resistor Axial_DIN0207_L6.3mm_D2.5mm
+R9,270-330R,Resistor Axial_DIN0207_L6.3mm_D2.5mm
+U1,ATmega8A-PU,Package_DIP:DIP-28_W7.62mm_Socket_LongPads
+Y1,Crystal,"HC18-U_Vertical, 12000 Hz"
