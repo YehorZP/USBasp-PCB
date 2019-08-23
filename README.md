@@ -1,4 +1,4 @@
-# USPasp-PCB
+# USBasp-PCB
 Double-sided PCB layout for USBasp
 
 
