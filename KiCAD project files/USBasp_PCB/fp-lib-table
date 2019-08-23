@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "USBasp_PCB")(type "KiCad")(uri "${KIPRJMOD}/USBasp_PCB.pretty")(options "")(descr ""))
+)
